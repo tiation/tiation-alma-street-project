@@ -26,6 +26,9 @@ This document provides a sequential record of all events related to Tia's case. 
 ### Wednesday, May 28, 2025
 - **~10:45 AM**: Documentation process initiated to record and address the concerns regarding Tia's treatment
 - **~11:20 AM**: Tia requested to go for a morning walk to get food and was refused by staff
+- **~11:38 AM**: Tia experienced difficulty speaking due to stress and hunger
+- **~11:38 AM**: Tia requested a 'talker' machine/communication device to assist with communication (request not accommodated)
+- **~11:38 AM**: Tia requested to go to the vending machine to get food and was refused
 
 ## Key Patterns and Concerns
 
@@ -34,16 +37,24 @@ This document provides a sequential record of all events related to Tia's case. 
 
 2. **Denial of Support**
    - Multiple denied requests for a support person during doctor meetings
+   - Denial of assistive communication device when needed
 
 3. **Restriction of Movement**
    - Denial of gym access (May 26, 2025)
    - Denial of morning walk to get food (May 28, 2025)
+   - Denial of access to vending machine (May 28, 2025)
 
-4. **Threats of Escalated Restrictions**
+4. **Denial of Basic Needs**
+   - Multiple incidents of denying access to food (morning walk, vending machine)
+
+5. **Failure to Accommodate**
+   - Not providing communication assistance when Tia had difficulty speaking
+
+6. **Threats of Escalated Restrictions**
    - Threats to change status from voluntary to involuntary
    - Threats to confiscate electronic devices
 
-5. **Allegations of Recording**
+7. **Allegations of Recording**
    - Accusations that Tia is recording staff conversations
    - Accusations of having someone on speakerphone during staff interactions
 
