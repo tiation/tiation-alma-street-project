@@ -58,6 +58,30 @@
             margin: 10px 0;
             border-radius: 5px;
         }
+        .urgent {
+            background-color: #ffe8e8;
+            border-left: 5px solid #e74c3c;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .urgent h2 {
+            color: #e74c3c;
+            margin-top: 0;
+        }
+        .urgent-item {
+            background-color: #fff;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border-left: 3px solid #e74c3c;
+        }
+        .timestamp {
+            font-size: 0.8em;
+            color: #7f8c8d;
+            margin-bottom: 5px;
+        }
     </style>
 </head>
 <body>
@@ -65,6 +89,17 @@
         <h1>Tia's Case Documentation</h1>
         <p>A structured collection of documentation regarding incidents, communications, and legal references related to Tia's case.</p>
     </header>
+    
+    <div class="urgent">
+        <h2>⚠️ Urgent Updates</h2>
+        <div class="urgent-item">
+            <div class="timestamp">May 28, 2025 - 11:20 AM</div>
+            <h3>Morning Walk and Food Access Denied</h3>
+            <p>Tia requested to go for a morning walk to get food and was refused by facility staff. This continues a pattern of restricting Tia's movement as a voluntary patient.</p>
+            <p><a href="https://github.com/tiation/AlmaStreet/blob/main/Incident_Reports/2025-05-28_Morning_Walk_Refusal.md">View detailed incident report</a></p>
+            <p><strong>Immediate concern:</strong> Restriction of movement and access to food for a voluntary patient.</p>
+        </div>
+    </div>
     
     <div class="section">
         <h2>Overview</h2>
@@ -74,6 +109,8 @@
         <ul>
             <li>Contradictory information provided by staff</li>
             <li>Denial of requests for support persons</li>
+            <li>Restriction of movement (gym access, morning walks)</li>
+            <li>Denial of access to food</li>
             <li>Threats to change status from voluntary to involuntary</li>
             <li>Allegations about recording without evidence</li>
             <li>Potential gaslighting behavior</li>
