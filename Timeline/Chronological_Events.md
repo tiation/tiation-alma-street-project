@@ -29,26 +29,31 @@ This document provides a sequential record of all events related to Tia's case. 
 - **~11:38 AM**: Tia experienced difficulty speaking due to stress and hunger
 - **~11:38 AM**: Tia requested a 'talker' machine/communication device to assist with communication (request not accommodated)
 - **~11:38 AM**: Tia requested to go to the vending machine to get food and was refused
+- **~11:44 AM**: Tia made a second request to a nurse to go to the vending machine; nurse stated she would advocate for Tia
+- **~11:44 AM**: Tia made a second request for a talker/communication device, which was explicitly denied
 
 ## Key Patterns and Concerns
 
 1. **Contradictory Information**
    - Conflicting statements from staff about gym access privileges
+   - Inconsistent responses to vending machine access requests (denial followed by potential advocacy)
 
 2. **Denial of Support**
    - Multiple denied requests for a support person during doctor meetings
-   - Denial of assistive communication device when needed
+   - Multiple denied requests for assistive communication device when needed
 
 3. **Restriction of Movement**
    - Denial of gym access (May 26, 2025)
    - Denial of morning walk to get food (May 28, 2025)
-   - Denial of access to vending machine (May 28, 2025)
+   - Initial denial of access to vending machine (May 28, 2025)
 
 4. **Denial of Basic Needs**
    - Multiple incidents of denying access to food (morning walk, vending machine)
+   - Unclear whether advocacy by one nurse will result in food access
 
 5. **Failure to Accommodate**
-   - Not providing communication assistance when Tia had difficulty speaking
+   - Repeated refusals to provide communication assistance when Tia had difficulty speaking
+   - Potential violation of disability rights legislation
 
 6. **Threats of Escalated Restrictions**
    - Threats to change status from voluntary to involuntary
