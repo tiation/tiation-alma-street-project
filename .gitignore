@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# Sensitive information files
+*.private
+*password*
+*credential*
+
+# Backup files
+*.bak
+*.backup
+*.bundle
+
+# Logs
+*.log
