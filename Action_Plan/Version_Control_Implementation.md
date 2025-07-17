@@ -104,7 +104,7 @@ This document outlines how to implement version control for Tia's case documenta
    Configure Git to use accurate information:
    ```bash
    git config user.name "Your Name"
-   git config user.email "your.email@example.com"
+   git config user.email "tiatheone@protonmail.com"
    ```
 
 3. **Commit Signatures** (optional)
